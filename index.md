@@ -1,23 +1,11 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Home
+nav_order: 1
+description: "TESSST"
+permalink: /
+---
 
-You can use the [editor on GitHub](https://github.com/MichaelBraun1994/CS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-# Test1
-
-aljsdfkajsfdöalsfdjkalsfjd
-
-aöldsjlaskjd
-adf#jaslkdjaksjdf
-asdflkjadsfjalsdfj
-dasjfslkafjdslkfj
-
-
-## Test2
-
-adfkjlasjdföalsjfda
-sdfasjdfjöalsdjfljsadf
-adfjaksdfjöladsjlkasjf
-ajsdfakldsfkalsfjaöldjfölkj
+# Home
+This site is a collection of various themes related to computerscience.
 

@@ -1,2 +1,11 @@
-remote_theme: pmarsceill/just-the-docs
-color_scheme: blue
+title: CS Notebook
+email: michael.braun1994@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A knowledge base for computer science related topics.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  michaelbraun1994
+
+# Build settings
+theme: just-the-docs
+color_scheme: bigblue
